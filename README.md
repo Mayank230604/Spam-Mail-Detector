@@ -25,7 +25,7 @@ The **Pro+ Version** includes:
    ```bash
    git clone https://github.com/Mayank230604/spam_detector_pro.git
    cd spam_detector_pro
-````
+   ````
 
 2. Create a virtual environment (optional but recommended):
 
