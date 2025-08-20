@@ -1,9 +1,4 @@
-Perfect 👍 Let’s create a **complete `README.md`** for your **Spam Mail Detector (Pro+ Version)**, styled just like your Iris Flower Classification one, but tailored for this project.
-
-Here’s the full markdown:
-
-```markdown
-# 📧 Spam Mail Detector (Pro+ Version)
+📧 Spam Mail Detector (Pro+ Version)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange.svg)
@@ -23,23 +18,6 @@ The **Pro+ Version** includes:
 - **WordCloud visualizations** of spam vs ham messages  
 - Saves best tuned models (`SVM` & `Random Forest`) for future predictions  
 
----
-
-## 🗂 Project Structure
-```
-
-spam\_detector\_pro/
-│── data/
-│   └── spam.csv               # Dataset
-│── figures/                   # All saved plots (confusion matrices, ROC curves, wordclouds)
-│── models/                    # Saved trained models (SVM & RandomForest)
-│── src/
-│   └── spam\_mail\_detector.py  # Main script
-│── README.md
-
-````
-
----
 
 ## ⚙️ Installation
 
