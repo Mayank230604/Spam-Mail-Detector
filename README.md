@@ -4,7 +4,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange.svg)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green.svg)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📌 Overview
 Spam emails are one of the biggest nuisances in communication today.  
