@@ -1,4 +1,4 @@
-## 📧 Spam Mail Detector (Pro+ Version)
+# 📧 Spam Mail Detector (Pro+ Version)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange.svg)
