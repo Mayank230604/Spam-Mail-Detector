@@ -1,9 +1,9 @@
 # 📧 Spam Mail Detector (Pro+ Version)
 
-![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
+[![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange.svg)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ## 📌 Overview
 Spam emails are one of the biggest nuisances in communication today.  
